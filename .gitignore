@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+
+*.db
+*.db-journal
+
+cleaned_al_si_pixels.csv
+*.csv
+
+.env
